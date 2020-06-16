@@ -1,2 +1,2 @@
-# Python-programs
+AI workshop
 Basics of AI
