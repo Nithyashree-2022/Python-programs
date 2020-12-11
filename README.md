@@ -1,2 +1,2 @@
 AI workshop
-Basics of AI
+Python
